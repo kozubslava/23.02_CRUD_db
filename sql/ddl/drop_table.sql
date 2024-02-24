@@ -1,1 +1,1 @@
-DROP TABLE workers;
+DROP TABLE employees;
